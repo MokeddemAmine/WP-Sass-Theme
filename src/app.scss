@@ -1,0 +1,10 @@
+$theme-colors:(
+    "primary":#960160,
+    "danger":#ff4136
+);
+
+@import 'node_modules/bootstrap/scss/bootstrap';
+
+@import 'colors';
+@import 'header';
+@import 'content';
